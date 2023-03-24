@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605939004192",
+    "project_id": "papermax-b7f52",
+    "storage_bucket": "papermax-b7f52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605939004192:android:783e20cf49c1e1afc65d45",
+        "android_client_info": {
+          "package_name": "com.papermax.tocalifepaperdollcollections"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605939004192-ea5qgp2ffr4ng33acqlco5f0qt20ruk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiaKKCwSL2pQtB_J2aQrkjFhB5YL3vN38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605939004192-ea5qgp2ffr4ng33acqlco5f0qt20ruk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
